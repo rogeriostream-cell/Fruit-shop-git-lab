@@ -2,3 +2,4 @@ shop:Fresh Fruits
 Apple price: 2 Euro
 Opening: 09:00
 Grape stock: 20
+Grape stock:30
