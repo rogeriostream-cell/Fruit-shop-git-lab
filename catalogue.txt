@@ -1,0 +1,3 @@
+shop:Fresh Fruits
+Apple price: 2 Euro
+Opening: 09:00
